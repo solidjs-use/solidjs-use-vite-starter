@@ -2,9 +2,7 @@
 
 Starter for [Vite](https://github.com/vuejs/vite) + [solidjs-use](https://github.com/solidjs-use/solidjs-use) + [TypeScript](https://www.typescriptlang.org/)
 
-🌐 [Live Demo](https://vueuse-vite-starter.netlify.app/)
-
-📦 [Webpack Example](https://github.com/vueuse/vueuse-vue3-example)
+🌐 [Live Demo](https://solidjs-use.github.io/solidjs-use-vite-starter/)
 
 ## Installation
 
